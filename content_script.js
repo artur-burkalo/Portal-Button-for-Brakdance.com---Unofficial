@@ -1,6 +1,6 @@
 // Find the existing button on the page
 const existingBDSection = document.querySelector('header .bde-div-23937-124');
-let buttonNameLoggInBD = 'My Account';
+let buttonNameLoggInBD = 'My Portal';
 
 
 existingBDSection.style.flexDirection = 'row';
