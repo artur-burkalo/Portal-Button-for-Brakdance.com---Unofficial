@@ -11,5 +11,5 @@ This is jsut an easy way to access the Portal with having the button on the top 
 5. Click the button on the top left 'Load unpacked' and upload the folder
 6. Go to breakdance.com and enjoy easy access to the portal
 
-![Screen Shot of Breakdance.com website with login button](https://destiny.ie/wp-content/uploads/2023/04/screenshot.png "Screenshot")
+![Screen Shot of Breakdance.com website with login button](https://destiny.ie/wp-content/uploads/2023/04/screenshot.png?v=2 "Screenshot")
 
