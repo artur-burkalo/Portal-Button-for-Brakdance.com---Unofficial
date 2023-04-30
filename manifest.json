@@ -1,0 +1,16 @@
+{
+  "name": "Portal Button for Breakdance.com - Unoffciail",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Adds a new button to a Breakdance.com website at the of the page for easier access.",
+  "permissions": ["activeTab"],
+  "content_scripts": [{
+    "matches": ["https://breakdance.com//*"],
+    "js": ["content_script.js"]
+  }],
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png"
+  }
+}
