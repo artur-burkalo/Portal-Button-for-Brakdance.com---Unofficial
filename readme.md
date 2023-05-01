@@ -1,6 +1,6 @@
 # Unofficial Breakdance.com Portal Button for Chrome
 
-This is jsut an easy way to access the Portal with having the button on the top of the screen for Desktop, and the extension can be used with any Chrome browser. 
+This is just an easy way to access the Portal with having the button on the top of the screen for Desktop, and the extension can be used with any Chrome browser. 
 
 ## Installing Extension
 
